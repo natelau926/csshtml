@@ -1,0 +1,19 @@
+p{
+    color:aqua;
+    background:black;
+    font-size:100px;
+
+}
+
+.box{
+
+    width:100px;
+    height:100px;
+    background:brown;
+    margin:10px;
+    padding:20px;
+    border:2px solid black;
+    
+    
+
+}
